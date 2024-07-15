@@ -1,0 +1,19 @@
+
+@media (min-width: 992px) {
+  .carousel-item img {
+    height: 500px;
+    object-fit: cover;
+  }
+  #penguin {
+    height: 500px;
+    object-fit: cover;
+    object-position: 0px 0px;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .carousel-item img {
+    height: 300px; 
+    object-fit: cover;
+  }
+}
