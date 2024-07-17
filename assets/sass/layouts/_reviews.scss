@@ -1,0 +1,13 @@
+.reviews-col {
+  color: $review-text;
+  &__image{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+}
+
+.reviews-col h5{
+  margin-top: 1rem;
+}
