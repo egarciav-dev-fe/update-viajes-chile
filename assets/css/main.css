@@ -11970,6 +11970,7 @@ body {
   border: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: #212529;
 }
 
 .navbar-brand img {
@@ -11997,4 +11998,8 @@ body {
     -o-object-fit: cover;
        object-fit: cover;
   }
+}
+.who-we-are-image {
+  -o-object-fit: cover;
+     object-fit: cover;
 }/*# sourceMappingURL=main.css.map */

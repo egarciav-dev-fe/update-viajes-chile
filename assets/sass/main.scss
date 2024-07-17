@@ -1,4 +1,6 @@
 // Abstracts
+@import
+  'abstracts/variables';
 
 // Vendors
 @import
@@ -12,7 +14,8 @@
 // Components
 @import
   'components/logo',
-  'components/carousel';
+  'components/carousel',
+  'components/quienessomos';
 // Pages
 
 // Themes
